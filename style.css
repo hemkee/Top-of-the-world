@@ -1,0 +1,23 @@
+html{
+    background-color: teal;
+  }
+
+  #head{
+    font-family: 'Libre Baskerville', serif;
+  color: white;background-color: black;
+  text-align: center;
+  text-transform: capitalize;
+  }
+  #img-spot{
+  border: 5px solid white;
+  
+  margin-left: 30%;
+  width: 600px; height:max-content;
+  
+  }
+  #para{
+    text-align: justify; justify-content: center;
+  
+    color: white;
+
+  }
